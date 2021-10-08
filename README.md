@@ -6,7 +6,7 @@ Vislab has three GPU servers under Worcester Polytechnic Insititute sub net, whi
 
 ## Log in
 There are two options for connecting to Vislab server
-* Connect to WPI campus wifi(on campus)
+* Connect to WPI campus Wifi(on campus)
 * Connect to WPI VPN(remote), you can download [here](https://hub.wpi.edu/software/570/globalprotect) and find the configuration [here](https://sirloin.wpi.edu/article/23/vpn-client-configuration-for-windows)
 
 ``` bash
